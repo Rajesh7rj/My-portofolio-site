@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Rajesh7rj/My-portofolio-site.git/static/css/main.060f11dd.css",
-    "main.js": "/Rajesh7rj/My-portofolio-site.git/static/js/main.dd36c78a.js",
-    "static/media/portofolio.jpg": "/Rajesh7rj/My-portofolio-site.git/static/media/portofolio.d0608c8fe15a4e392518.jpg",
-    "static/media/huddle.jpg": "/Rajesh7rj/My-portofolio-site.git/static/media/huddle.1598712cbdcaa6e29a55.jpg",
-    "static/media/tindog.png": "/Rajesh7rj/My-portofolio-site.git/static/media/tindog.35f8481e4c237419c32e.png",
-    "static/media/bookmark.jpg": "/Rajesh7rj/My-portofolio-site.git/static/media/bookmark.20ccd5d9c740fe0c2d95.jpg",
-    "static/media/muzictown.png": "/Rajesh7rj/My-portofolio-site.git/static/media/muzictown.de9de1d6debd270751c1.png",
-    "static/media/react.png": "/Rajesh7rj/My-portofolio-site.git/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/calculatorApp.jpg": "/Rajesh7rj/My-portofolio-site.git/static/media/calculatorApp.ea5bca8be323db6b65a4.jpg",
-    "static/media/heroImage.jpg": "/Rajesh7rj/My-portofolio-site.git/static/media/heroImage.ec285cca20fad19af14f.jpg",
-    "static/media/github.png": "/Rajesh7rj/My-portofolio-site.git/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/Rajesh7rj/My-portofolio-site.git/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/Rajesh7rj/My-portofolio-site.git/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/bootstraplogo.png": "/Rajesh7rj/My-portofolio-site.git/static/media/bootstraplogo.437de34340c8e8a7b77d.png",
-    "static/media/javascript.png": "/Rajesh7rj/My-portofolio-site.git/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/Rajesh7rj/My-portofolio-site.git/index.html",
-    "main.060f11dd.css.map": "/Rajesh7rj/My-portofolio-site.git/static/css/main.060f11dd.css.map",
-    "main.dd36c78a.js.map": "/Rajesh7rj/My-portofolio-site.git/static/js/main.dd36c78a.js.map"
+    "main.css": "/My-portofolio-site/static/css/main.060f11dd.css",
+    "main.js": "/My-portofolio-site/static/js/main.b8b804a8.js",
+    "static/media/portofolio.jpg": "/My-portofolio-site/static/media/portofolio.d0608c8fe15a4e392518.jpg",
+    "static/media/huddle.jpg": "/My-portofolio-site/static/media/huddle.1598712cbdcaa6e29a55.jpg",
+    "static/media/tindog.png": "/My-portofolio-site/static/media/tindog.35f8481e4c237419c32e.png",
+    "static/media/bookmark.jpg": "/My-portofolio-site/static/media/bookmark.20ccd5d9c740fe0c2d95.jpg",
+    "static/media/muzictown.png": "/My-portofolio-site/static/media/muzictown.de9de1d6debd270751c1.png",
+    "static/media/react.png": "/My-portofolio-site/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/calculatorApp.jpg": "/My-portofolio-site/static/media/calculatorApp.ea5bca8be323db6b65a4.jpg",
+    "static/media/heroImage.jpg": "/My-portofolio-site/static/media/heroImage.ec285cca20fad19af14f.jpg",
+    "static/media/github.png": "/My-portofolio-site/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/My-portofolio-site/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/My-portofolio-site/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/bootstraplogo.png": "/My-portofolio-site/static/media/bootstraplogo.437de34340c8e8a7b77d.png",
+    "static/media/javascript.png": "/My-portofolio-site/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/My-portofolio-site/index.html",
+    "main.060f11dd.css.map": "/My-portofolio-site/static/css/main.060f11dd.css.map",
+    "main.b8b804a8.js.map": "/My-portofolio-site/static/js/main.b8b804a8.js.map"
   },
   "entrypoints": [
     "static/css/main.060f11dd.css",
-    "static/js/main.dd36c78a.js"
+    "static/js/main.b8b804a8.js"
   ]
 }
