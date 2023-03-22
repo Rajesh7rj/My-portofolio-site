@@ -2,6 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import {SiFrontendmentor} from "react-icons/si"
 
 const SocialLinks = () => {
 
@@ -37,6 +38,16 @@ const SocialLinks = () => {
     },
     {
       id: 4,
+      child: (
+        <>
+           Frontend Mentor <SiFrontendmentor size={30} />
+         </>
+      ),
+      href: "https://www.frontendmentor.io/profile/Rajesh7rj", 
+      
+    },
+    {
+      id: 5,
       child: (
         <>
            Resume <BsFillPersonLinesFill size={30} />

@@ -20,16 +20,17 @@ const Portfolio = () => {
       src: muzicTown,
       projectName : "Muzictown-e-commerce-site",
     },
+    
     {
       id: 2,
-      src: bookmark,
-      projectName : "bookmark-landing-page",
-    },
-    {
-      id: 3,
       src: portfolio,
       projectName : "My-portofolio-site",
       
+    },
+    {
+      id: 3,
+      src: bookmark,
+      projectName : "bookmark-landing-page",
     },
     {
       id: 4,
@@ -44,7 +45,7 @@ const Portfolio = () => {
     {
       id: 6,
       src: tindog,
-      projectName : "",
+      projectName : "tindog-website",
     },
   ];
 
