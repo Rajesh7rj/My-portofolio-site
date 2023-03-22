@@ -18,7 +18,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: muzicTown,
-      projectName : "Calculator-App",
+      projectName : "Muzictown-e-commerce-site",
     },
     {
       id: 2,
@@ -28,17 +28,18 @@ const Portfolio = () => {
     {
       id: 3,
       src: portfolio,
-      projectName : "Calculator-App",
+      projectName : "My-portofolio-site",
+      
     },
     {
       id: 4,
       src: calculatorApp,
-      projectName : "Huddle-Landing-page",
+      projectName : "Calculator-App",
     },
     {
       id: 5,
       src: huddle,
-      projectName : "Interactive-rating-component",
+      projectName : "Huddle-Landing-page",
     },
     {
       id: 6,
