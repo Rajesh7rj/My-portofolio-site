@@ -28,7 +28,10 @@ const NavBar = () => {
     },
   ];
   return (
-    <div name="navbar" className="flex justify-between item-center p-4 text-white bg-black w-full h-20 ">
+    <div
+      name="navbar"
+      className="flex justify-between item-center p-4 text-white bg-black w-full h-20 "
+    >
       <div>
         <h1 className="text-5xl font-signature m-1">Rajesh Janyani</h1>
       </div>
@@ -39,7 +42,9 @@ const NavBar = () => {
             key={id}
             className="text-gray-500 cursor-pointer p-4 capitalize font-medium hover:scale-105 duration-200 "
           >
-          <Link to={link} smooth duration={500}>{link}</Link>  
+            <Link to={link} smooth duration={500}>
+              {link}
+            </Link>
           </li>
         ))}
       </ul>
@@ -58,7 +63,14 @@ const NavBar = () => {
               key={id}
               className=" cursor-pointer px-4 py-6 text-4xl capitalize font-medium hover:scale-105 duration-200 "
             >
-              <Link onClick={() => setNav(!nav)} to={link} smooth duration={500}>{link}</Link>
+              <Link
+                onClick={() => setNav(!nav)}
+                to={link}
+                smooth
+                duration={500}
+              >
+                {link}
+              </Link>
             </li>
           ))}
         </ul>

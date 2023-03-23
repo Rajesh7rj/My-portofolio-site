@@ -2,7 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { HiOutlineMail } from "react-icons/hi";
-import {SiFrontendmentor} from "react-icons/si"
+import { SiFrontendmentor } from "react-icons/si";
 
 export default function Footer() {
   return (
@@ -31,7 +31,7 @@ export default function Footer() {
           </li>
           <li className="mx-4  hover:scale-125 duration-150 ">
             <a
-              href="/RajeshResume1.pdf"
+              href="https://drive.google.com/file/d/1xNw2PwtFxMLT4nXOpAAOnEhmGujbP179/view?usp=share_link"
               className=""
               target="_blank"
               rel="noreferrer"
@@ -46,7 +46,6 @@ export default function Footer() {
               className=""
               target="_blank"
               rel="noreferrer"
-              
             >
               <HiOutlineMail size={40} />
             </a>
@@ -57,7 +56,6 @@ export default function Footer() {
               className=""
               target="_blank"
               rel="noreferrer"
-              
             >
               <SiFrontendmentor size={40} />
             </a>
