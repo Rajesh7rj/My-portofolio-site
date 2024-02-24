@@ -16,8 +16,10 @@ const Home = () => {
             I'm a Front End Developer
           </h2>
           <p className="text-gray-500 text-center py-4 md:max-w-md md:text-left">
-           I am self-taught and enthusiast frontend developer wanting to grow in web development field.  
-           I have skills in HTML, CSS, Javascript, React.JS, Github, Bootstrap. I also have basic knowlodge of node.js, mongoDB, tailwind, and SASS.  
+            Experienced Frontend Developer (1 year) with expertise in React.JS,
+            JavaScript, TypeScript, and MUI, committed to continuous learning
+            and growth while delivering impactful web solutions that delight
+            users and clients alike.
           </p>
 
           <div className="flex justify-center md:justify-start">
@@ -39,7 +41,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="myImg rounded-full mx-auto w-2/3 md:w-full border-2 border-white shadow-lg shadow-slate-300" 
+            className="myImg rounded-full mx-auto w-2/3 md:w-full border-2 border-white shadow-lg shadow-slate-300"
             style={{}}
           />
         </div>

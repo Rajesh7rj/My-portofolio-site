@@ -1,5 +1,6 @@
 import React from "react";
-
+import typescript from "../assets/typescript.png";
+import materailUi from "../assets/material-ui.png";
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
@@ -33,7 +34,7 @@ const Experience = () => {
       id: 4,
       src: reactImage,
       title: "React",
-      style: "shadow-blue-600",
+      style: "shadow-blue-500",
     },
     {
       id: 5,
@@ -43,22 +44,22 @@ const Experience = () => {
     },
     {
       id: 6,
+      src: typescript,
+      title: "Typescript",
+      style: "shadow-blue-500",
+    },
+
+    {
+      id: 7,
       src: bootstrap,
       title: "Bootstrap",
-      style: "shadow-white",
+      style: "shadow-pink-500",
     },
     {
-      // id: 7,
-      // src: graphql,
-      // title: "GraphQL",
-      // style: "shadow-pink-400",
-    },
-    
-    {
-      // id: 8,
-      // src: tailwind,
-      // title: "Tailwind",
-      // style: "shadow-sky-400",
+      id: 8,
+      src: materailUi,
+      title: "Materail UI",
+      style: "shadow-blue-500",
     },
   ];
 

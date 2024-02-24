@@ -14,17 +14,28 @@ const about = () => {
         </div>
         <div className="text-white text-xl mt-20">
           <p>
-            Teacher turned frontend developer. I had been done teaching job till 2022. Then, I wanted to change my career. So, I started learning web development in 2022.
-            I have done udemy's :- The complete web development bootcamp by Angela Yu.
+            👋 Hey there! I'm Rajesh, a frontend enthusiast with a year of
+            experience crafting captivating web experiences! 💻 Fluent in
+            ReactJS, Material UI, TypeScript, JavaScript and more, I'm all about
+            turning designs into dynamic realities. 🚀
           </p>
           <br />
           <p>
-          I have good hand on how to make website resopnsive and know how to make user eperience easy and better.
-           I have also done some challenges on frontend menter and you can also check my github profile to see my work.
+            🎨 Whether it's jazzing up interfaces with snazzy CSS or diving into
+            the depths of JavaScript, I thrive on challenges and love learning
+            new tricks of the trade. 🌟
           </p>
           <br />
           <p>
-           I have created few landing pages and a fully responsive e-commerce site "MuzicTown".
+            💡 Known for my problem-solving prowess and unwavering curiosity,
+            I'm the go-to guy/gal for cracking tough nuts and embracing new tech
+            with open arms. 💪
+          </p>
+          <br />
+          <p>
+            🌱 Passionate about collaboration and always eager to grow, I'm on a
+            mission to build awesome things with awesome people. Let's connect
+            and create some magic together! 🔮✨
           </p>
         </div>
       </div>
