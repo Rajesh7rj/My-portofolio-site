@@ -32,11 +32,6 @@ const about = () => {
             with open arms. 💪
           </p>
           <br />
-          <p>
-            🌱 Passionate about collaboration and always eager to grow, I'm on a
-            mission to build awesome things with awesome people. Let's connect
-            and create some magic together! 🔮✨
-          </p>
         </div>
       </div>
     </div>
