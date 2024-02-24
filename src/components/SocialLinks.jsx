@@ -3,7 +3,6 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { SiFrontendmentor } from "react-icons/si";
-// import Resume from ""
 
 const SocialLinks = () => {
   const links = [
@@ -51,7 +50,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1xNw2PwtFxMLT4nXOpAAOnEhmGujbP179/view?usp=share_link",
+      href: process.env.PUBLIC_URL + "/resume.pdf",
       style: "rounded-br-md",
       download: true,
     },

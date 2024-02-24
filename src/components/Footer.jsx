@@ -31,7 +31,7 @@ export default function Footer() {
           </li>
           <li className="mx-4  hover:scale-125 duration-150 ">
             <a
-              href="https://drive.google.com/file/d/1xNw2PwtFxMLT4nXOpAAOnEhmGujbP179/view?usp=share_link"
+              href={process.env.PUBLIC_URL + "/resume.pdf"}
               className=""
               target="_blank"
               rel="noreferrer"
